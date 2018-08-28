@@ -1,0 +1,638 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{443EC371-2EFC-4582-8A70-F5DCF5BC4376}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pen_and_Paper_Visualator</RootNamespace>
+    <AssemblyName>Pen_and_Paper_Visualator</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PublishUrl>E:\PnP_Visualator\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>19bb42c3</NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>wod.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>30D73033048E7A40CD02713D033023CD3F3E8F01</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Pen_and_Paper_Visualator_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\ChatboxMessages.cs" />
+    <Compile Include="Class\Create\ErrorHandler.cs" />
+    <Compile Include="Class\Create\Possessed.cs" />
+    <Compile Include="Class\Human\Human.cs" />
+    <Compile Include="Class\Hunter\Hunter.cs" />
+    <Compile Include="Class\Interfaces\ITemplateCreate.cs" />
+    <Compile Include="Class\Interfaces\ITemplateRules.cs" />
+    <Compile Include="Class\Mage\Arcana.cs" />
+    <Compile Include="Class\Armor.cs" />
+    <Compile Include="Class\Cargo.cs" />
+    <Compile Include="Class\Create\Human.cs" />
+    <Compile Include="Class\Create\Hunter.cs" />
+    <Compile Include="Class\Create\Mage.cs" />
+    <Compile Include="Class\Create\Vampire.cs" />
+    <Compile Include="Class\Create\Werewolf.cs" />
+    <Compile Include="Class\CropImage.cs" />
+    <Compile Include="Class\Mage\Mage.cs" />
+    <Compile Include="Class\Possessed\Possessed.cs" />
+    <Compile Include="Class\Possessed\Vestment.cs" />
+    <Compile Include="Class\Vampire\Devotion.cs" />
+    <Compile Include="Class\Vampire\Vampire.cs" />
+    <Compile Include="Class\Werewolf\Gift.cs" />
+    <Compile Include="Class\Global.cs" />
+    <Compile Include="Class\Notification.cs" />
+    <Compile Include="Class\Hunter\Profession.cs" />
+    <Compile Include="Class\Resource_Init.cs" />
+    <Compile Include="Class\Vampire\Discipline.cs" />
+    <Compile Include="Class\Item.cs" />
+    <Compile Include="Class\Character_Init.cs" />
+    <Compile Include="Class\Player.cs" />
+    <Compile Include="Class\RollDice.cs" />
+    <Compile Include="Class\CharacterUpdate.cs" />
+    <Compile Include="Class\RtfHelper.cs" />
+    <Compile Include="Class\TradeObject.cs" />
+    <Compile Include="Class\Trait.cs" />
+    <Compile Include="Class\Vehicle.cs" />
+    <Compile Include="Class\Weapon.cs" />
+    <Compile Include="Class\Werewolf\Rite.cs" />
+    <Compile Include="Class\Werewolf\Werewolf.cs" />
+    <Compile Include="Controls\DisplayTypes\RtfDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\RtfDisplay.Designer.cs">
+      <DependentUpon>RtfDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\GMAdvancedControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\GMAdvancedControl.Designer.cs">
+      <DependentUpon>GMAdvancedControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CombatChatTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CombatChatTab.Designer.cs">
+      <DependentUpon>CombatChatTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\ActionDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\ActionDisplay.Designer.cs">
+      <DependentUpon>ActionDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Actions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Actions.Designer.cs">
+      <DependentUpon>Actions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ActivePlayersTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ActivePlayersTab.Designer.cs">
+      <DependentUpon>ActivePlayersTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\GMAdministerExperience.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\GMAdministerExperience.Designer.cs">
+      <DependentUpon>GMAdministerExperience.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Mage\ArcanaTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Mage\ArcanaTab.Designer.cs">
+      <DependentUpon>ArcanaTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CashControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CashControl.Designer.cs">
+      <DependentUpon>CashControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ChatTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ChatTab.Designer.cs">
+      <DependentUpon>ChatTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Combat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Combat.Designer.cs">
+      <DependentUpon>Combat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CompendiumTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CompendiumTab.Designer.cs">
+      <DependentUpon>CompendiumTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CreateCharacter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CreateCharacter.Designer.cs">
+      <DependentUpon>CreateCharacter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CreateItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CreateItem.Designer.cs">
+      <DependentUpon>CreateItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Vampire\DisciplineTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Vampire\DisciplineTab.Designer.cs">
+      <DependentUpon>DisciplineTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\EquipmentTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\EquipmentTab.Designer.cs">
+      <DependentUpon>EquipmentTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\CharDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\CharDisplay.Designer.cs">
+      <DependentUpon>CharDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Werewolf\FormTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Werewolf\FormTab.Designer.cs">
+      <DependentUpon>FormTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Werewolf\GiftTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Werewolf\GiftTab.Designer.cs">
+      <DependentUpon>GiftTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\GMControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\GMControl.Designer.cs">
+      <DependentUpon>GMControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\GMWeaponControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\GMWeaponControl.Designer.cs">
+      <DependentUpon>GMWeaponControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\HealthPoint.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\HealthPoint.Designer.cs">
+      <DependentUpon>HealthPoint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\IconLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\IconLabel.Designer.cs">
+      <DependentUpon>IconLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\ItemDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\ItemDisplay.designer.cs">
+      <DependentUpon>ItemDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Loot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Loot.Designer.cs">
+      <DependentUpon>Loot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\LootDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\LootDisplay.Designer.cs">
+      <DependentUpon>LootDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Map.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Map.Designer.cs">
+      <DependentUpon>Map.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\InitDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\InitDisplay.Designer.cs">
+      <DependentUpon>InitDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\NotificationTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\NotificationTab.Designer.cs">
+      <DependentUpon>NotificationTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\rdoAbilityRank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\rdoAbilityRank.Designer.cs">
+      <DependentUpon>rdoAbilityRank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ReferenceTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ReferenceTab.Designer.cs">
+      <DependentUpon>ReferenceTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\StatTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\StatTab.Designer.cs">
+      <DependentUpon>StatTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Store.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Store.Designer.cs">
+      <DependentUpon>Store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Trade.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Trade.Designer.cs">
+      <DependentUpon>Trade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TraitTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TraitTab.Designer.cs">
+      <DependentUpon>TraitTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\VehicleDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\DisplayTypes\VehicleDisplay.Designer.cs">
+      <DependentUpon>VehicleDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\VehicleTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\VehicleTab.Designer.cs">
+      <DependentUpon>VehicleTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomForm.Designer.cs">
+      <DependentUpon>CustomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVisualator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVisualator.Designer.cs">
+      <DependentUpon>frmVisualator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWelcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWelcome.Designer.cs">
+      <DependentUpon>frmWelcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GMForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GMForm.Designer.cs">
+      <DependentUpon>GMForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Load.Designer.cs">
+      <DependentUpon>Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Controls\DisplayTypes\RtfDisplay.resx">
+      <DependentUpon>RtfDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\GMAdvancedControl.resx">
+      <DependentUpon>GMAdvancedControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CombatChatTab.resx">
+      <DependentUpon>CombatChatTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DisplayTypes\ActionDisplay.resx">
+      <DependentUpon>ActionDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Actions.resx">
+      <DependentUpon>Actions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ActivePlayersTab.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ActivePlayersTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\GMAdministerExperience.resx">
+      <DependentUpon>GMAdministerExperience.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Mage\ArcanaTab.resx">
+      <DependentUpon>ArcanaTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CashControl.resx">
+      <DependentUpon>CashControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ChatTab.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ChatTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Combat.resx">
+      <DependentUpon>Combat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CompendiumTab.resx">
+      <DependentUpon>CompendiumTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CreateCharacter.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CreateCharacter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CreateItem.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CreateItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Vampire\DisciplineTab.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DisciplineTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\EquipmentTab.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EquipmentTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DisplayTypes\CharDisplay.resx">
+      <DependentUpon>CharDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Werewolf\FormTab.resx">
+      <DependentUpon>FormTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Werewolf\GiftTab.resx">
+      <DependentUpon>GiftTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\GMControl.resx">
+      <DependentUpon>GMControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\GMWeaponControl.resx">
+      <DependentUpon>GMWeaponControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\HealthPoint.resx">
+      <DependentUpon>HealthPoint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DisplayTypes\IconLabel.resx">
+      <DependentUpon>IconLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DisplayTypes\ItemDisplay.resx">
+      <DependentUpon>ItemDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Loot.resx">
+      <DependentUpon>Loot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DisplayTypes\LootDisplay.resx">
+      <DependentUpon>LootDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Map.resx">
+      <DependentUpon>Map.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DisplayTypes\InitDisplay.resx">
+      <DependentUpon>InitDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\NotificationTab.resx">
+      <DependentUpon>NotificationTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\rdoAbilityRank.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rdoAbilityRank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ReferenceTab.resx">
+      <DependentUpon>ReferenceTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\StatTab.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>StatTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Store.resx">
+      <DependentUpon>Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Trade.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Trade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TraitTab.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TraitTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DisplayTypes\VehicleDisplay.resx">
+      <DependentUpon>VehicleDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\VehicleTab.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>VehicleTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVisualator.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmVisualator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWelcome.resx">
+      <DependentUpon>frmWelcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GMForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GMForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Load.resx">
+      <DependentUpon>Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\PlayerTab.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PlayerTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Pen_and_Paper_Visualator_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Controls\PlayerTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PlayerTab.Designer.cs">
+      <DependentUpon>PlayerTab.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vamp_tab.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moon_load.gif" />
+    <None Include="Resources\Inferno_Logo.jpg" />
+    <None Include="Resources\PleaseWait.JPG" />
+    <Content Include="wod.ico" />
+    <None Include="Resources\world_of_darkness.jpg" />
+    <None Include="Resources\yJVocM1.jpg" />
+    <None Include="Resources\zoom_in.png" />
+    <None Include="Resources\zoom_out.png" />
+    <None Include="app.config" />
+    <None Include="Resources\Mage_Logo.jpg" />
+    <None Include="Resources\MageAwakeningBox.jpg" />
+    <None Include="Resources\Hunter_Logo.jpg" />
+    <None Include="Resources\Hunter_Box.jpg" />
+    <None Include="Resources\center.png" />
+    <None Include="Resources\terror.jpg" />
+    <None Include="Resources\moon.jpg" />
+    <None Include="Resources\green.jpg" />
+    <None Include="Resources\nebula.jpg" />
+    <None Include="Resources\skulls.jpg" />
+    <None Include="Resources\alley.jpg" />
+    <None Include="Resources\Clear.jpg" />
+    <None Include="Resources\icon_down.png" />
+    <None Include="Resources\Aggravated.jpg" />
+    <None Include="Resources\Bash.jpg" />
+    <None Include="Resources\Lethal.jpg" />
+    <None Include="Resources\pack.jpg" />
+    <None Include="Resources\pack_color.jpg" />
+    <None Include="Resources\Break.png" />
+    <None Include="Resources\bullet.jpg" />
+    <None Include="Resources\Sound.png" />
+    <None Include="Resources\Sound_Off.png" />
+    <Content Include="Resources\VampireRequiemBox1.jpg" />
+    <None Include="Resources\VtRBorder.jpg" />
+    <Content Include="Resources\WOD_Logo.jpg" />
+    <None Include="Resources\WerewolfForsakenBox.jpg" />
+    <None Include="Resources\Wolf_Logo.jpg" />
+    <None Include="Resources\Vamp_Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controls\Human\" />
+    <Folder Include="Controls\Hunter\" />
+    <Folder Include="Controls\Possessed\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

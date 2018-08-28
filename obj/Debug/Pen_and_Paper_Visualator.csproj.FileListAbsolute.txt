@@ -1,0 +1,281 @@
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.pdb
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.pdb
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ActivePlayersTab.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ChatTab.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateCharacter.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateItem.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.DisciplineTab.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.EquipmentTab.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.rdoAbilityRank.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.frmStats.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Trade.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.TraitTab.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleTab.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmVisualator.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.GMForm.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Properties.Resources.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.PlayerTab.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csproj.GenerateResource.Cache
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmWelcome.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.config
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Map.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CompendiumTab.resources
+C:\Users\Brett Tooley\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CharDisplay.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.config
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.pdb
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ActivePlayersTab.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ChatTab.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CompendiumTab.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateCharacter.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateItem.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.DisciplineTab.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.EquipmentTab.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Map.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CharDisplay.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.rdoAbilityRank.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.frmStats.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Trade.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.TraitTab.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleTab.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmVisualator.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmWelcome.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.GMForm.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Properties.Resources.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.PlayerTab.resources
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csproj.GenerateResource.Cache
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe
+C:\Users\Brett\Documents\Visual Studio 2008\Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.pdb
+C:\Users\brett\Google Drive\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.config
+C:\Users\brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe
+C:\Users\brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.pdb
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ActivePlayersTab.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ChatTab.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CompendiumTab.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateCharacter.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateItem.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.DisciplineTab.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.EquipmentTab.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CharDisplay.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Map.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.rdoAbilityRank.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Reference.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.frmStats.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Trade.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.TraitTab.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleTab.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmVisualator.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmWelcome.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.GMForm.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Properties.Resources.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.PlayerTab.resources
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csproj.GenerateResource.Cache
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe
+C:\Users\Brett\Google Drive\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.pdb
+C:\Users\brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.HealthPoint.resources
+C:\Users\brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ItemDisplay.resources
+C:\Users\brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.IconLabel.resources
+C:\Users\brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleDisplay.resources
+C:\Users\brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.InitDisplay.resources
+C:\Users\brett\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Combat.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.config
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.pdb
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.pdb
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ActivePlayersTab.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ChatTab.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Combat.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CompendiumTab.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateCharacter.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateItem.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.DisciplineTab.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.EquipmentTab.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CharDisplay.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.HealthPoint.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.IconLabel.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ItemDisplay.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Map.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.InitDisplay.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.rdoAbilityRank.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Reference.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.frmStats.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Trade.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.TraitTab.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleDisplay.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleTab.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmVisualator.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmWelcome.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.GMForm.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Properties.Resources.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.PlayerTab.resources
+C:\Users\Brett\Desktop\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csproj.GenerateResource.Cache
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.AdvancedGMControl.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CombatChatTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ActionDisplay.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Actions.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ActivePlayersTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GMAdministerExperience.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ArcanaTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CashControl.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ChatTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Combat.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CompendiumTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateCharacter.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateItem.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.DisciplineTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.EquipmentTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CharDisplay.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Werewolf.FormTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GiftTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GMControl.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GMWeaponControl.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.HealthPoint.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.IconLabel.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ItemDisplay.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Loot.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.LootDisplay.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Map.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.InitDisplay.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.NotificationTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.rdoAbilityRank.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ReferenceTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.frmStats.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Store.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Trade.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.TraitTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleDisplay.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmVisualator.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmWelcome.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.GMForm.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Load.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Properties.Resources.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.PlayerTab.resources
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csproj.GenerateResource.Cache
+F:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.config
+F:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.manifest
+F:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.application
+F:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe
+F:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.pdb
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe.manifest
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.application
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe
+F:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.pdb
+G:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe
+G:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.config
+G:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.manifest
+G:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.application
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.DisplayTypes.RtfDisplay.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.AdvancedGMControl.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CombatChatTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ActionDisplay.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Actions.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ActivePlayersTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GMAdministerExperience.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ArcanaTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CashControl.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ChatTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Combat.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CompendiumTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateCharacter.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateItem.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.DisciplineTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.EquipmentTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CharDisplay.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Werewolf.FormTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GiftTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GMControl.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GMWeaponControl.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.HealthPoint.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.IconLabel.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ItemDisplay.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Loot.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.LootDisplay.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Map.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.InitDisplay.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.NotificationTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.rdoAbilityRank.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ReferenceTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.frmStats.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Store.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Trade.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.TraitTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleDisplay.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmVisualator.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmWelcome.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.GMForm.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Load.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Properties.Resources.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.PlayerTab.resources
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csproj.GenerateResource.Cache
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe.manifest
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.application
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.pdb
+G:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.pdb
+E:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.config
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.DisplayTypes.RtfDisplay.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.AdvancedGMControl.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CombatChatTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ActionDisplay.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Actions.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ActivePlayersTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GMAdministerExperience.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ArcanaTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CashControl.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ChatTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Combat.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CompendiumTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateCharacter.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CreateItem.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.DisciplineTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.EquipmentTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.CharDisplay.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Werewolf.FormTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GiftTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GMControl.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.GMWeaponControl.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.HealthPoint.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.IconLabel.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ItemDisplay.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Loot.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.LootDisplay.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Map.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.InitDisplay.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.NotificationTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.rdoAbilityRank.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.ReferenceTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.frmStats.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Store.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.Trade.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.TraitTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleDisplay.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Controls.VehicleTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmVisualator.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.frmWelcome.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.GMForm.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Load.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.Properties.Resources.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.PlayerTab.resources
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csproj.GenerateResource.Cache
+E:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.manifest
+E:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.application
+E:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe
+E:\My Projects\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.pdb
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csprojResolveAssemblyReference.cache
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe.manifest
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.application
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe
+E:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.pdb
+G:\My Projects\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.csprojResolveAssemblyReference.cache
+C:\Users\brett.tooley\Google Drive\Pen_and_Paper_Visualator\bin\Debug\Pen_and_Paper_Visualator.exe.config
+C:\Users\brett.tooley\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.exe
+C:\Users\brett.tooley\Google Drive\Pen_and_Paper_Visualator\obj\Debug\Pen_and_Paper_Visualator.pdb
